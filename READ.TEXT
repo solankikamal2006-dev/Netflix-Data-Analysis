@@ -1,0 +1,12 @@
+Netflix Data Analysis Project
+
+Tools Used:
+- Python
+- Pandas
+- Matplotlib
+
+Insights:
+- Drama is the most popular genre
+- Content increased rapidly after 2015
+- Movies dominate over TV shows
+- Most content is rated TV-MA
