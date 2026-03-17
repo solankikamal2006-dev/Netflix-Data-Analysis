@@ -17,11 +17,17 @@ Analyzed Netflix dataset to find trends in genres, ratings, and content growth.
 
 ## 📊 Graphs
 
-### Top Genres
-![Genres](genre_chart.png)
+## 📈 Content Release Trend
+![Trend](netflix_year.png)
 
-### Ratings Distribution
-![Ratings](ratings.png)
+## ⭐ Ratings Distribution
+![Ratings](netflix_rating.png)
 
-### Movies vs TV Shows
-![Type](movies_vs_tv.png)
+## 🎬 Movies vs TV Shows
+![Type](netflix_moviesvsTvshows.png)
+
+## 🌍 Top Producing Countries
+![Country](netflix_country.png)
+
+## 🎭 Top Genres
+![Genres](netflix_count.png)
