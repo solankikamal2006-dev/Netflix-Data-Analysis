@@ -14,3 +14,8 @@ Analyzed Netflix dataset to find trends in genres, ratings, and content growth.
 - Content increased after 2016
 - Movies dominate Netflix content
 - TV-MA is most common rating
+
+## Graphs
+
+![Genres](genre_chart.png)
+![Ratings](ratings.png)
